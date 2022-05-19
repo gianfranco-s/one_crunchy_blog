@@ -1,5 +1,3 @@
-# mi-blog-mega-crujiente
-
 # Another crunchy blog you say?
 Well yes, that's right. This will serve several purposes:
 - deepen my understanding of Flask
