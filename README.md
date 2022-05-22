@@ -6,7 +6,7 @@ Well yes, that's right. This will serve several purposes:
 
 
 To do:
-- [ ] Change database to use MySQL
+- [ ] Change database to use MySQL, and then PostgreSQL
 - [ ] Contribution guide
 - [ ] Pull Request Template
 - [ ] Publish project
@@ -25,15 +25,15 @@ To do:
 
 # Steps from Flask's documentation
 
-- [] [Project Layout](https://flask.palletsprojects.com/en/2.1.x/tutorial/layout/)
-- [] [Application setup](https://flask.palletsprojects.com/en/2.1.x/tutorial/factory/)
-- [] [Define and access the database](https://flask.palletsprojects.com/en/2.1.x/tutorial/database/)
-- [] [Blueprints and views](https://flask.palletsprojects.com/en/2.1.x/tutorial/views/)
-- [] [Templates](https://flask.palletsprojects.com/en/2.1.x/tutorial/templates/)
-- [] [Static files](https://flask.palletsprojects.com/en/2.1.x/tutorial/static/)
-- [] [Blog blueprint](https://flask.palletsprojects.com/en/2.1.x/tutorial/blog/)
-- [] [Make the Project Installable](https://flask.palletsprojects.com/en/2.1.x/tutorial/install/)
-- [] [Test Coverage](https://flask.palletsprojects.com/en/2.1.x/tutorial/tests/)
-- [] [Deploy to Production](https://flask.palletsprojects.com/en/2.1.x/tutorial/deploy/)
-- [] [Keep Developing!](https://flask.palletsprojects.com/en/2.1.x/tutorial/next/)
+- [ ] [Project Layout](https://flask.palletsprojects.com/en/2.1.x/tutorial/layout/)
+- [ ] [Application setup](https://flask.palletsprojects.com/en/2.1.x/tutorial/factory/)
+- [ ] [Define and access the database](https://flask.palletsprojects.com/en/2.1.x/tutorial/database/)
+- [ ] [Blueprints and views](https://flask.palletsprojects.com/en/2.1.x/tutorial/views/)
+- [ ] [Templates](https://flask.palletsprojects.com/en/2.1.x/tutorial/templates/)
+- [ ] [Static files](https://flask.palletsprojects.com/en/2.1.x/tutorial/static/)
+- [ ] [Blog blueprint](https://flask.palletsprojects.com/en/2.1.x/tutorial/blog/)
+- [ ] [Make the Project Installable](https://flask.palletsprojects.com/en/2.1.x/tutorial/install/)
+- [ ] [Test Coverage](https://flask.palletsprojects.com/en/2.1.x/tutorial/tests/)
+- [ ] [Deploy to Production](https://flask.palletsprojects.com/en/2.1.x/tutorial/deploy/)
+- [ ] [Keep Developing!](https://flask.palletsprojects.com/en/2.1.x/tutorial/next/)
 
