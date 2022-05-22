@@ -30,7 +30,7 @@ To do:
 - [x] [Define and access the database](https://flask.palletsprojects.com/en/2.1.x/tutorial/database/)
 - [x] [Blueprints and views](https://flask.palletsprojects.com/en/2.1.x/tutorial/views/)
 - [x] [Templates](https://flask.palletsprojects.com/en/2.1.x/tutorial/templates/)
-- [ ] [Static files](https://flask.palletsprojects.com/en/2.1.x/tutorial/static/)
+- [x] [Static files](https://flask.palletsprojects.com/en/2.1.x/tutorial/static/)
 - [ ] [Blog blueprint](https://flask.palletsprojects.com/en/2.1.x/tutorial/blog/)
 - [ ] [Make the Project Installable](https://flask.palletsprojects.com/en/2.1.x/tutorial/install/)
 - [ ] [Test Coverage](https://flask.palletsprojects.com/en/2.1.x/tutorial/tests/)
