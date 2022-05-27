@@ -31,9 +31,9 @@ To do:
 - [x] [Blueprints and views](https://flask.palletsprojects.com/en/2.1.x/tutorial/views/)
 - [x] [Templates](https://flask.palletsprojects.com/en/2.1.x/tutorial/templates/)
 - [x] [Static files](https://flask.palletsprojects.com/en/2.1.x/tutorial/static/)
-- [ ] [Blog blueprint](https://flask.palletsprojects.com/en/2.1.x/tutorial/blog/)
-- [ ] [Make the Project Installable](https://flask.palletsprojects.com/en/2.1.x/tutorial/install/)
-- [ ] [Test Coverage](https://flask.palletsprojects.com/en/2.1.x/tutorial/tests/)
+- [x] [Blog blueprint](https://flask.palletsprojects.com/en/2.1.x/tutorial/blog/)
+- [x] [Make the Project Installable](https://flask.palletsprojects.com/en/2.1.x/tutorial/install/)
+- [x] [Test Coverage](https://flask.palletsprojects.com/en/2.1.x/tutorial/tests/)
 - [ ] [Deploy to Production](https://flask.palletsprojects.com/en/2.1.x/tutorial/deploy/)
 - [ ] [Keep Developing!](https://flask.palletsprojects.com/en/2.1.x/tutorial/next/)
 

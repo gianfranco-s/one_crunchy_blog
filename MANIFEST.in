@@ -1,4 +1,4 @@
-include flaskr/schema.sql
-graft flaskr/static
-graft flaskr/templates
+include crunchy_blog/schema.sql
+graft crunchy_blog/static
+graft crunchy_blog/templates
 global-exclude *.pyc
